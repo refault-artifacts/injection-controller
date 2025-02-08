@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Teensy")(type "KiCad")(uri "/home/stefan/bsc_thesis/hardware/stgloor-injection-controller/hardware")(options "")(descr ""))
+  (lib (name "DDR5")(type "KiCad")(uri "/home/stefan/bsc_thesis/hardware/stgloor-injection-controller/hardware/ddr5.pretty")(options "")(descr ""))
+)

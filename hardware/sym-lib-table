@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Teensy")(type "KiCad")(uri "/home/stefan/bsc_thesis/hardware/stgloor-injection-controller/hardware/teensy.kicad_sym")(options "")(descr ""))
+)
