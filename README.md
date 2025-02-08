@@ -11,7 +11,7 @@ From there, you should be able to select the schematic and PCB layout.
 
 For convenience, you can also find a PDF version of the schematic in `docs/schematic.pdf`. A bill of materials (BOM) is also provided in `docs`.
 
-**Warning**
+### !!! Warning !!!
 This injection controller was designed for a previous version
 of interposer with a different pinout on the flat-flex connector.
 This works fine as long as the software is modified accordingly,
